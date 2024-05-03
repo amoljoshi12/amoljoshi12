@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amoljoshi12
+- 👀 I’m interested in machine learning and web development 
+- 🌱 I’m currently learning web development 
+- 😄 Pronouns: He/him
