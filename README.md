@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @amoljoshi12
-- 👀 I’m interested in machine learning and web development 
-- 🌱 I’m currently learning web development 
+- 👀 I’m interested in machine learning and Game Development
+- 🌱 I’m currently learning Game Development in Godot v4.3
 - 😄 Pronouns: He/him
